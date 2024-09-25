@@ -61,3 +61,6 @@ Not yet as a network activated plugin, however you can install it individually o
 
 = 1.0.0 =
 * Released first version
+
+= 2.0.0 =
+* Update Carbon fields
